@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#page-title{
+    margin: 2% 20%;
+    align-content: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+.page-content{
+    margin: auto 10%;
+    align-items: center;
+}
